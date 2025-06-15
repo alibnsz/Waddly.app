@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/acab489a-fff8-45a8-80fb-ef777210dc72" width="512" />
+  <img src="https://github.com/user-attachments/assets/acab489a-fff8-45a8-80fb-ef777210dc72" width="256" />
 </p>
 
 <h1 align="center">📱 Waddly</h1>
