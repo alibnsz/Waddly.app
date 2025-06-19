@@ -11,6 +11,8 @@ A mobile application designed to support teachers and families in the special ed
 ## 🛠 Technologies
 
 - **Frontend**: Swift 6 · SwiftUI · Combine · MVVM + Coordinator Architecture  
+- **Networking**: Alamofire – Advanced HTTP networking and response handling  
+- **Persistence**: RealmSwift – Fast and lightweight local database solution  
 - **Backend (Temporary)**: Firebase (Auth, Firestore, Storage)  
 - **Backend (Planned)**: Node.js · MongoDB Atlas · AWS Deployment  
 - **Others**: Dependency Injection (Swinject), Localization, Custom UI Components
